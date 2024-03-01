@@ -1,0 +1,16 @@
+@media (max-width:450px) {
+    #logo {
+        font-size: 2.5rem;
+    }
+
+    .clock-circle {
+        width: 15rem;
+        height: 15rem;
+    }
+
+    .clock-hands-div {
+        width: 12rem;
+        height: 12rem;
+    }
+
+}
